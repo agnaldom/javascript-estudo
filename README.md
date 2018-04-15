@@ -25,6 +25,7 @@ Este grupo se destina ao estudo de JavaScript e Node.js.
 - [eventos](material/dir/events.md)
 - [newsletters](material/dir/newsletters.md)
 - [sites](material/dir/sites.md)
+- [exercícios](material/dir/exercicios.md)
 
 ## Responsáveis
 
