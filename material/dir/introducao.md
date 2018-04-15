@@ -2,8 +2,18 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [O que é JavaScript?](#O-que-é-JavaScript?)
-- [Estado de um no](#Estado-de-um-no)
-- [Gestão](#Gestao)
+- [Criando primeiro programa - Hello Word](#Estado-de-um-no)
+- [Introdução a variávei]()
+- [Variáveis caracteres]()
+- [Variáveis numéricas e biblioteca Math]()
+- [Input e ouput]()
+- [Operadores]()
+- [Trabalhando com condicionais if e else]()
+- [Trabalhando com codicionais switch]()
+- [Estrutura de repetições while e do while]()
+- [Estrutura de repetição for]()
+- [Funções]()
+- [Tipos de funções e introdução a escopo]()
 
 <!-- /TOC -->
 
