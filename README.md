@@ -9,13 +9,7 @@ Repositório do grupo de estudos sobre JavaScript do [Training JavaScript](https
 
 ## Como funciona
 
-Este grupo se destina ao estudo de [xxx].
-
-Conforme [outros grupos de estudos](https://github.com/training/study-groups) da comunidade Training Center, nós temos um [roadmap](material/roadmap.md) de tópicos para estudar juntos e fazemos reuniões semanais sobre o assunto que são gravados e disponibilizados no YouTube, no [canal do Training Center](https://www.youtube.com/c/TrainingCenterChannel).
-
-## Como participar
-
-Basta responder [este formulário]() para sabermos seu nível de conhecimento, entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#[xxx]-studies**.
+Este grupo se destina ao estudo de JavaScript.
 
 ## Reuniões
 
