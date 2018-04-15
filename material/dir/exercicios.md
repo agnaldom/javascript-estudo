@@ -1,5 +1,6 @@
 # Exercicios de JavaScript
 - [Link](https://github.com/larismourullo/exercicios)
+- [Lista de exercicios](https://wiki.python.org.br/ListaDeExercicios)
 
 ## Estrutura Sequencial
 
