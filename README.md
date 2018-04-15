@@ -1,7 +1,7 @@
 # template-study-group
 
 
-Repositório do grupo de estudos sobre JavaScript do [Training JavaScript](https://training.github.io).
+Repositório do grupo de estudos sobre JavaScript e Node.js do [Training JavaScript](https://training.github.io).
 
 <p align="center">
   <img src="assets/training-center-logo.svg" alt="Logo do Training JavaScript">
@@ -9,7 +9,7 @@ Repositório do grupo de estudos sobre JavaScript do [Training JavaScript](https
 
 ## Como funciona
 
-Este grupo se destina ao estudo de JavaScript.
+Este grupo se destina ao estudo de JavaScript e Node.js.
 
 ## Reuniões
 
