@@ -4,6 +4,8 @@
 - [JavaScritp Avançado](dir/avancado.md)
 - [Orientação a Objetos com JavaScript - ES5](dir/oo.md)
 - [ES6](dir/es6.md)
+- [ES7](dir/es7.md)
+- [ES8](dir/es8.md)
 - [Node.js Básico](dir/nodejsBasico.md)
 - [Node com Express.js](dir/nodejsExpress.md)
 - [Inciando com Mongodb](dir/mongodb.md)
