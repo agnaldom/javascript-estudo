@@ -1,8 +1,8 @@
 # Introdução ao JavaScript
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
-- [O que é JavaScript?](#O-que-é-JavaScript?)
-- [Criando primeiro programa - Hello Word](#Estado-de-um-no)
+- [O que é JavaScript?](#O-que-é-JavaScript-?)
+- [Criando primeiro programa - Hello Word](#Criando-primeiro-programa)
 - [Introdução a variávei]()
 - [Variáveis caracteres]()
 - [Variáveis numéricas e biblioteca Math]()
@@ -28,3 +28,5 @@ Navegadores web não são únicas plataformas nas quais o JavaScript é usado. A
 CouchDB, usam JavaScript como sua linguagem de script e consulta. Muitas plataforma para desktop, tanto quanto as de
 programação no servidor, sendo o mais notável o projeto Node.js, estão fornecendo um 
 poderoso ambiente para  programar JavaScritp fora do navegador.
+
+## Criando primeiro programa
